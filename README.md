@@ -31,13 +31,10 @@ clarinet:
 
 ```shell
 # Show all installable versions
-asdf list-all clarinet
+asdf list all clarinet
 
 # Install specific version
 asdf install clarinet latest
-
-# Set a version globally (on your ~/.tool-versions file)
-asdf global clarinet latest
 
 # Now clarinet commands are available
 clarinet --help
