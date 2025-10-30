@@ -2,7 +2,7 @@
 
 # asdf-clarinet [![Build](https://github.com/alexgo-io/asdf-clarinet/actions/workflows/build.yml/badge.svg)](https://github.com/alexgo-io/asdf-clarinet/actions/workflows/build.yml) [![Lint](https://github.com/alexgo-io/asdf-clarinet/actions/workflows/lint.yml/badge.svg)](https://github.com/alexgo-io/asdf-clarinet/actions/workflows/lint.yml)
 
-[clarinet](https://github.com/hirosystems/clarinet/releases) plugin for the [asdf version manager](https://asdf-vm.com).
+[clarinet](https://github.com/stx-labs/clarinet/releases) plugin for the [asdf version manager](https://asdf-vm.com).
 
 </div>
 

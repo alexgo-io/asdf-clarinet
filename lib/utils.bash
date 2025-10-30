@@ -2,7 +2,7 @@
 
 set -euo pipefail
 
-GH_REPO="https://github.com/hirosystems/clarinet"
+GH_REPO="https://github.com/stx-labs/clarinet"
 TOOL_NAME="clarinet"
 TOOL_TEST="clarinet -V | grep clarinet"
 
